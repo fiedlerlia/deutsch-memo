@@ -1,0 +1,13 @@
+{
+  "name": "Deutsch Memo",
+  "short_name": "Deutsch Memo",
+  "description": "Ton carnet de vocabulaire allemand avec répétition espacée.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#172b4d",
+  "lang": "fr",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
